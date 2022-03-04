@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/andreyskravchenko/ftla.git/static/css/main.0c376503.css",
-    "main.js": "/andreyskravchenko/ftla.git/static/js/main.2d2b7eeb.js",
-    "static/js/787.a0dcf56a.chunk.js": "/andreyskravchenko/ftla.git/static/js/787.a0dcf56a.chunk.js",
-    "static/media/partner1.png": "/andreyskravchenko/ftla.git/static/media/partner1.5288769a30904ee72e27.png",
-    "static/media/partner2.png": "/andreyskravchenko/ftla.git/static/media/partner2.e103b45925d9d1aba783.png",
-    "static/media/ftla-logo.svg": "/andreyskravchenko/ftla.git/static/media/ftla-logo.cb5d99769032ba7f700e.svg",
-    "index.html": "/andreyskravchenko/ftla.git/index.html",
-    "static/media/team-bckgrnd.svg": "/andreyskravchenko/ftla.git/static/media/team-bckgrnd.fc039483c6321706ac1c.svg",
-    "main.0c376503.css.map": "/andreyskravchenko/ftla.git/static/css/main.0c376503.css.map",
-    "main.2d2b7eeb.js.map": "/andreyskravchenko/ftla.git/static/js/main.2d2b7eeb.js.map",
-    "787.a0dcf56a.chunk.js.map": "/andreyskravchenko/ftla.git/static/js/787.a0dcf56a.chunk.js.map"
+    "main.css": "/ftla/static/css/main.0c37f243.css",
+    "main.js": "/ftla/static/js/main.41c0b806.js",
+    "static/js/787.a0dcf56a.chunk.js": "/ftla/static/js/787.a0dcf56a.chunk.js",
+    "static/media/partner1.png": "/ftla/static/media/partner1.5288769a30904ee72e27.png",
+    "static/media/partner2.png": "/ftla/static/media/partner2.e103b45925d9d1aba783.png",
+    "static/media/ftla-logo.svg": "/ftla/static/media/ftla-logo.cb5d99769032ba7f700e.svg",
+    "index.html": "/ftla/index.html",
+    "static/media/team-bckgrnd.svg": "/ftla/static/media/team-bckgrnd.fc039483c6321706ac1c.svg",
+    "main.0c37f243.css.map": "/ftla/static/css/main.0c37f243.css.map",
+    "main.41c0b806.js.map": "/ftla/static/js/main.41c0b806.js.map",
+    "787.a0dcf56a.chunk.js.map": "/ftla/static/js/787.a0dcf56a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c376503.css",
-    "static/js/main.2d2b7eeb.js"
+    "static/css/main.0c37f243.css",
+    "static/js/main.41c0b806.js"
   ]
 }
