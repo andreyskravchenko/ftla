@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ftla/static/css/main.ad71cad6.css",
-    "main.js": "/ftla/static/js/main.f396ce05.js",
+    "main.js": "/ftla/static/js/main.7f55bc63.js",
     "static/js/787.a0dcf56a.chunk.js": "/ftla/static/js/787.a0dcf56a.chunk.js",
     "static/media/l.png": "/ftla/static/media/l.3bb2c41da67c0336eea5.png",
     "static/media/m.png": "/ftla/static/media/m.ea4fbd2689b17cfa88cf.png",
@@ -10,11 +10,11 @@
     "index.html": "/ftla/index.html",
     "static/media/team-bckgrnd.svg": "/ftla/static/media/team-bckgrnd.fc039483c6321706ac1c.svg",
     "main.ad71cad6.css.map": "/ftla/static/css/main.ad71cad6.css.map",
-    "main.f396ce05.js.map": "/ftla/static/js/main.f396ce05.js.map",
+    "main.7f55bc63.js.map": "/ftla/static/js/main.7f55bc63.js.map",
     "787.a0dcf56a.chunk.js.map": "/ftla/static/js/787.a0dcf56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad71cad6.css",
-    "static/js/main.f396ce05.js"
+    "static/js/main.7f55bc63.js"
   ]
 }
