@@ -1,7 +1,7 @@
 import React from "react";
 import s from "../Team/Team.module.css";
-import partner1 from "../../media/partner1.png";
-import partner2 from "../../media/partner2.png";
+import l from "../../media/l.png";
+import m from "../../media/m.png";
 
 const Team = () => {
   return (
@@ -13,13 +13,13 @@ const Team = () => {
           </div>
           <div className={s.teamphoto}>
             <div className={s.partner}>
-                <img src={partner1} alt='partner1'/>
+                <img src={l} alt='l'/>
                 <div className={s.partner_descr}>
                   <p><strong>Ліна Новікова</strong> керуючий партнер</p>
                 </div>
             </div>
             <div className={s.partner}>
-                <img src={partner2} alt='partner2'/>
+                <img src={m} alt='m'/>
                 <div className={s.partner_descr}>
                   <p><strong>Маріанна Бєлкіна</strong> керуючий партнер</p>
                 </div>
