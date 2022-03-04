@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ftla/static/css/main.8ed7e510.css",
+    "main.js": "/ftla/static/js/main.41c0b806.js",
+    "static/js/787.a0dcf56a.chunk.js": "/ftla/static/js/787.a0dcf56a.chunk.js",
+    "static/media/partner1.png": "/ftla/static/media/partner1.5288769a30904ee72e27.png",
+    "static/media/partner2.png": "/ftla/static/media/partner2.e103b45925d9d1aba783.png",
+    "static/media/ftla-logo.svg": "/ftla/static/media/ftla-logo.cb5d99769032ba7f700e.svg",
+    "index.html": "/ftla/index.html",
+    "static/media/team-bckgrnd.svg": "/ftla/static/media/team-bckgrnd.fc039483c6321706ac1c.svg",
+    "main.8ed7e510.css.map": "/ftla/static/css/main.8ed7e510.css.map",
+    "main.41c0b806.js.map": "/ftla/static/js/main.41c0b806.js.map",
+    "787.a0dcf56a.chunk.js.map": "/ftla/static/js/787.a0dcf56a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ed7e510.css",
+    "static/js/main.41c0b806.js"
+  ]
+}
