@@ -50,3 +50,9 @@ a {
         margin: 0 auto;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    .logo_container {
+        background-image: url('../../media/ftla-logo-white.svg');
+    }
+  }

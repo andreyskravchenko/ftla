@@ -27,3 +27,12 @@
         background-position: center;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    .wrapper {
+        background-color: #7F8A80;
+    }
+    .logo {
+        background-image: url('../../media/ftla-logo-white.svg');
+    }
+  }

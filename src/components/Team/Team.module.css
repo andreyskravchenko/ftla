@@ -70,71 +70,8 @@
     }
 }
 
-/* .team {
-    height: 700px;
-    display:flex;
-}
-
-.teamcontent {
-    width: 50%;
-    align-self: center;
-}
- 
-.teamcontent p {
-    margin-top: -20px;
-    width: 60%;
-}
-
-.teamphoto {
-    width: 50%;
-    background-image: url(../../media/team-bckgrnd.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-    display: flex;
-}
-
-.partner {
-    align-self: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.partner_descr {
-    width: 200px;
-    font-size: 18px;
-    background-color: white;
-    border: 1px solid #C6CA8B;
-    text-align: center;
-    margin-top: -20px;
-    z-index: 222;
-}
-
-@media screen and (max-width: 700px) {
-    .team {
-        flex-direction: column;
-        height: auto;
-        margin-bottom: 50px;
-    }
-    .teamcontent {
-        width: 100%;
-    }
-
-    .teamcontent p {
-        margin-top: -20px;
-        width: 100%;
-    }
-    .teamphoto {
-        width: 100%;
-    }
-    .partner img {
-        max-width:100%
-    }
+@media (prefers-color-scheme: dark) {
     .partner_descr {
-        width: 100%;
+        background-color: #7F8A80;
     }
-    .partner_descr p {
-        font-size: 14px;
-    }
-} */
+  }
