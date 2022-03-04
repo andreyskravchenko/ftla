@@ -40,6 +40,7 @@ a {
         width: 30%;
         background-position: center left;
         background-size: 90%;
+        background-image: url('../../media/ftla-logo-mob.svg');
     }
     .contacts_container {
         border-left: none;
@@ -56,3 +57,9 @@ a {
         background-image: url('../../media/ftla-logo-white.svg');
     }
   }
+
+@media (max-width: 700px) and (prefers-color-scheme: dark) {
+.logo_container {
+    background-image: url('../../media/ftla-logo-mob-white.svg');
+}
+}
