@@ -15,13 +15,13 @@ const Team = () => {
             <div className={s.partner}>
                 <img src={l} alt='l'/>
                 <div className={s.partner_descr}>
-                  <p><strong>Ліна Новікова</strong> керуючий партнер</p>
+                  <p><strong>Ліна Новікова</strong><br/>керуючий партнер</p>
                 </div>
             </div>
             <div className={s.partner}>
                 <img src={m} alt='m'/>
                 <div className={s.partner_descr}>
-                  <p><strong>Маріанна Бєлкіна</strong> керуючий партнер</p>
+                  <p><strong>Маріанна Бєлкіна</strong><br/>керуючий партнер</p>
                 </div>
             </div>
           </div>
